@@ -1,4 +1,4 @@
-﻿/[Ll]ibrary/
+/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -30,3 +30,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/UnityConnectSettings.asset
