@@ -11,7 +11,7 @@ public class studyScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyDown(KeyCode.A)) {
+		if(Input.GetKeyDown(KeyCode.Z)) {
 			// 0.0〜0.5の間の乱数を作り出す
 			float rnd = Random.Range(0.0f, 0.5f);
 			// 自分（Capsule）の位置を変更
